@@ -7,7 +7,6 @@
 **Ratings**: complete = +points, fail = −1.5 × points.  
 **Limit**: a freelancer may hold **max 3** active tasks (assigned/in_progress).
 
-> No `/health` route. Uses `nodemon` for server dev.
 
 ## 1) Postgres
 ```sql
