@@ -1,5 +1,5 @@
 
-# Task Broadcast System — v2 (Full Stack)
+# AssignMate
 
 **Stack**: Postgres, Node.js (Express, ES Modules), React (Vite), CSS  
 **Auth**: JWT (users: provider / freelancer)  
